@@ -16,3 +16,5 @@ Other data included are:
 
 The ISIMIP data is distributed with CC-BY 4.0 or CC-NY-NC 4.0 license. Refer to the following link for which license applies to which model. https://www.isimip.org/gettingstarted/terms-of-use/licenses-publicly-available-isimip-data/?query=license#licences-for-isimip2a
 GRADES data can be only used for research purposes.
+
+Version 1.0 archived at Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3987723.svg)](https://doi.org/10.5281/zenodo.3987723). 
